@@ -21,7 +21,17 @@
     "test": "mocha --compilers js:babel-register test/tests/**/*.test.js",
     "lint": "./node_modules/.bin/eslint ./lib ./test"
   },
+  "maintainers": [
+    {
+      "name": "Ian Ferguson",
+      "email": "iferguson@ddswireless.com"
+    }
+  ],
   "contributors": [
+    {
+      "name": "Ian Ferguson",
+      "url": "https://github.com/powell0"
+    },
     {
       "name": "Chris Ludden",
       "url": "https://github.com/cludden"
@@ -42,7 +52,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GaiamTV/transformalizer"
+    "url": "https://github.com/powell0/transformalizer"
   },
   "devDependencies": {
     "babel-cli": "^6.22.2",
