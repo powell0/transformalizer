@@ -1,5 +1,5 @@
 {
-  "name": "transformalizer",
+  "name": "@powell0/transformalizer",
   "version": "1.1.4",
   "description": "a bare bones node module for building JSON API v1.0 compliant payloads",
   "main": "./dist/transformalizer.js",
